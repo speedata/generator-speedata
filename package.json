@@ -1,0 +1,22 @@
+{
+  "name": "generator-speedata",
+  "version": "0.0.1",
+  "description": "Create an empty layout and data file for the speedata Publisher.",
+  "author": {
+    "name": "Patrick Gundlach",
+    "email": "gundlach@speedata.de",
+    "url": "http://www.speedata.de"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "speedata"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  },
+  "repository": "https://github.com/speedata/generator-speedata",
+  "license": "MIT"
+}
